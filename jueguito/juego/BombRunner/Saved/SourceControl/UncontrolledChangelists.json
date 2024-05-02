@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/AdvancedLocomotionV4/Levels/ALS_DemoLevel.umap",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Magma/Materials/M_Env_Fire_Magma.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Magma/Materials/LAVA_MATERIAL.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Magma/Materials/LavaLandscape.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Environments/Fire/Env_Fire_Magma/Materials/LavaVariante.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Maps/LevelContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Maps/LevelContent/Architecture/M_1Meter_01.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Maps/LevelContent/Architecture/M_CycRoom_01.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Maps/LevelContent/Architecture/M_CycWall_01.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Maps/LevelContent/Architecture/SM_1Meter_01.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Maps/LevelContent/Architecture/SM_CycRoom_01.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Maps/LevelContent/Architecture/T_MeterGrid_01_M.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Maps/LevelContent/M_EV_Lightbeam_Master_01_Inst_Inst.uasset",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Maps/Forge.umap",
+				"C:/Programas Videojuegos/Repositorios/proyectos/grupo5-Jam2/jueguito/juego/BombRunner/Content/InfinityBladeFireLands/Maps/Overview.umap"
+			]
+		}
+	]
+}
