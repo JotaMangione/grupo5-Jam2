@@ -1,4 +1,0 @@
-xd
-detalles:
-Nombre: Explosive Runner
-
