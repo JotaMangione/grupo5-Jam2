@@ -11714,3 +11714,12 @@ Script Stack (0 frames) :
 [2024.05.04-07.59.58:729][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Timer/Timer_WG_Auto7
 [2024.05.04-07.59.58:730][340]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/Saved/Timer_WG_Auto7510E02D04A4D287BD2D15DB1829BD443.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/Saved/Autosaves/Game/Timer/Timer_WG_Auto7.uasset'
 [2024.05.04-07.59.58:803][340]LogFileHelpers: Auto-saving content packages took 0.928
+[2024.05.04-08.11.23:349][457]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.04-08.14.34:518][415]LogUObjectHash: Compacting FUObjectHashTables data took  81.50ms
+[2024.05.04-08.14.34:617][415]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.657
+[2024.05.04-08.14.34:710][415]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP] ([2] browsable assets)...
+[2024.05.04-08.14.34:809][415]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP.ALS_AnimMan_CharacterBP]
+[2024.05.04-08.14.34:810][415]OBJ SavePackage: Finished generating thumbnails for package [/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP]
+[2024.05.04-08.14.36:366][415]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP_Auto8
+[2024.05.04-08.14.36:379][415]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/Saved/ALS_AnimMan_CharacterBP_Auto844B754F1408C3B3D482A279E13317EFF.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/Saved/Autosaves/Game/AdvancedLocomotionV4/Blueprints/CharacterLogic/ALS_AnimMan_CharacterBP_Auto8.uasset'
+[2024.05.04-08.14.36:451][415]LogFileHelpers: Auto-saving content packages took 1.827
