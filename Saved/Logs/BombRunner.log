@@ -11703,3 +11703,14 @@ Script Stack (0 frames) :
 [2024.05.04-07.39.23:645][298]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Timer/Timer_WG.Timer_WG
 [2024.05.04-07.41.33:471][762]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2024.05.04-07.42.23:393][912]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.04-07.59.33:923][339]BlueprintLog: New page: Compile Timer_WG
+[2024.05.04-07.59.41:865][339]LogUObjectHash: Compacting FUObjectHashTables data took  58.20ms
+[2024.05.04-07.59.57:861][340]LogUObjectHash: Compacting FUObjectHashTables data took   9.09ms
+[2024.05.04-07.59.57:869][340]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AdvancedLocomotionV4/Levels/ALS_DemoLevel' took 0.203
+[2024.05.04-07.59.57:921][340]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Timer/Timer_WG] ([2] browsable assets)...
+[2024.05.04-07.59.58:255][340]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Timer/Timer_WG.Timer_WG]
+[2024.05.04-07.59.58:260][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Timer/Timer_WG]
+[2024.05.04-07.59.58:279][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Timer/Timer_WG" FILE="C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/Saved/Autosaves/Game/Timer/Timer_WG_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.05.04-07.59.58:729][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Timer/Timer_WG_Auto7
+[2024.05.04-07.59.58:730][340]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/Saved/Timer_WG_Auto7510E02D04A4D287BD2D15DB1829BD443.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/Saved/Autosaves/Game/Timer/Timer_WG_Auto7.uasset'
+[2024.05.04-07.59.58:803][340]LogFileHelpers: Auto-saving content packages took 0.928
