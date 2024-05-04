@@ -11702,3 +11702,4 @@ Script Stack (0 frames) :
 [2024.05.04-07.39.23:645][298]AssetCheck: New page: Asset Save: Timer_WG
 [2024.05.04-07.39.23:645][298]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Timer/Timer_WG.Timer_WG
 [2024.05.04-07.41.33:471][762]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.05.04-07.42.23:393][912]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
