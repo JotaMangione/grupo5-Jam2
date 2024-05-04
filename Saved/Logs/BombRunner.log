@@ -11665,3 +11665,40 @@ Script Stack (0 frames) :
 [2024.05.04-07.30.37:729][428]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
 [2024.05.04-07.30.37:796][428]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
 [2024.05.04-07.30.38:111][429]LogPlayLevel: Display: Destroying online subsystem :Context_181
+[2024.05.04-07.35.26:665][378]LogDerivedDataCache: C:/Users/Usuario/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:09.039 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 4212 files in 5784 folders with total size 182 MiB.
+[2024.05.04-07.37.29:895][748]LogHttp: Warning: 00000994CB8A9B00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.04-07.37.29:895][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 0 (Found bundle for host: 0x99350160d80 [serially])
+[2024.05.04-07.37.29:895][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.05.04-07.37.29:895][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.05.04-07.37.29:895][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 3 (Recv failure: Connection was reset)
+[2024.05.04-07.37.29:895][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 4 (OpenSSL SSL_read: Connection was reset, errno 10054)
+[2024.05.04-07.37.29:895][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.05.04-07.37.29:895][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 6 (state.rewindbeforesend = TRUE)
+[2024.05.04-07.37.29:896][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 7 (Closing connection)
+[2024.05.04-07.37.29:896][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 8 (Recv failure: Connection was reset)
+[2024.05.04-07.37.29:896][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 9 (Send failure: Connection was reset)
+[2024.05.04-07.37.29:896][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 10 (Recv failure: Connection was reset)
+[2024.05.04-07.37.29:896][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 11 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA67D35B8-44AC-852B-6A12-6FBE2C2A3CD7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=2a76c7644ce39e448c3080b651c06b59%7Cc69310b8c5ea4efdbf8e1370ad307658%7C98ca9364-9f5c-49b6-b999-f6dd71a63db7&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.05.04-07.37.29:896][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 12 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.04-07.37.29:896][748]LogHttp: Warning: 00000994CB8A9B00: libcurl info message cache 13 (Closing connection)
+[2024.05.04-07.37.29:896][748]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA67D35B8-44AC-852B-6A12-6FBE2C2A3CD7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=2a76c7644ce39e448c3080b651c06b59%7Cc69310b8c5ea4efdbf8e1370ad307658%7C98ca9364-9f5c-49b6-b999-f6dd71a63db7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.04-07.38.07:939][862]LogHttp: Warning: 00000994CB8A3700: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.05.04-07.38.07:939][862]LogHttp: Warning: 00000994CB8A3700: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.05.04-07.38.07:939][862]LogHttp: Warning: 00000994CB8A3700: libcurl info message cache 1 (Closing connection)
+[2024.05.04-07.38.07:939][862]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BA67D35B8-44AC-852B-6A12-6FBE2C2A3CD7%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=2a76c7644ce39e448c3080b651c06b59%7Cc69310b8c5ea4efdbf8e1370ad307658%7C98ca9364-9f5c-49b6-b999-f6dd71a63db7&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.05.04-07.38.13:022][876]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.05.04-07.38.15:759][882]Could not fetch the local adapter addresses
+[2024.05.04-07.38.15:759][882]LogUdpMessaging: Display: Added local interface '0.0.0.0' to multicast group '230.0.0.1:6666'
+[2024.05.04-07.39.15:935][125]LogEditorViewport: Clicking Background
+[2024.05.04-07.39.19:323][264]BlueprintLog: New page: Compile Timer_WG
+[2024.05.04-07.39.19:513][264]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2024.05.04-07.39.21:567][298]LogUObjectHash: Compacting FUObjectHashTables data took   9.20ms
+[2024.05.04-07.39.23:307][298]LogSlate: Window 'Save Content' being destroyed
+[2024.05.04-07.39.23:399][298]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.04-07.39.23:548][298]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Timer/Timer_WG" FILE="C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/Content/Timer/Timer_WG.uasset" SILENT=true
+[2024.05.04-07.39.23:588][298]LogSavePackage: Moving output files for package: /Game/Timer/Timer_WG
+[2024.05.04-07.39.23:591][298]LogSavePackage: Moving 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/Saved/Timer_WG55B358B84688745E4EF3818991F3CC7C.tmp' to 'C:/Users/Usuario/OneDrive/Escritorio/2024 TEC DV/Jam 2/grupo5-Jam2/Content/Timer/Timer_WG.uasset'
+[2024.05.04-07.39.23:636][298]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 6.63 sec)
+[2024.05.04-07.39.23:645][298]AssetCheck: New page: Asset Save: Timer_WG
+[2024.05.04-07.39.23:645][298]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Timer/Timer_WG.Timer_WG
+[2024.05.04-07.41.33:471][762]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
